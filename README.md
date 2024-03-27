@@ -1,4 +1,4 @@
 # Exercise---Analysis-Part-1-
 
 
-Exercise from Makers Academy Quality Engineering Bootcamp
+Exercise for Makers Academy Quality Engineering Bootcamp.
